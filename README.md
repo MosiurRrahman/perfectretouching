@@ -56,3 +56,10 @@ Check with:
 ```bash
 node -v
 npm -v
+
+
+**Clone the Repository**
+
+```bash
+git clone 
+cd perfect-retouching-clone
