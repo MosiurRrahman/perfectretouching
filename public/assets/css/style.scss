@@ -73,6 +73,7 @@ Version: 1.0
 @mixin xxl-down-device {
   @media (max-width: 1399px) {
     @content;
+    
   }
 }
 
